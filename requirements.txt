@@ -1,0 +1,8 @@
+openai 
+langchain 
+tiktoken 
+unstructured 
+pinecone-client 
+openpyxl
+redis 
+redisvl
