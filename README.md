@@ -9,3 +9,6 @@
 
 1. How to make sure the extracted code snippets are correct? Currently, it needs manual effort to achieve that.
 2. Given two code snippets, how to calculate the similarity? Besides, how to identify new features that are benign or malicious?
+
+### Redis Local Database
+Check [Releases](https://github.com/XueningXu/RAG_Comparison/releases/tag/redis_local_database) to download the Redis local database.
